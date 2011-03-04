@@ -1,1 +1,2 @@
-Physics is great! \[F=MA\]
+Physics is great!
+\[F=MA\]
